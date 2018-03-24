@@ -1380,15 +1380,15 @@ body {
 }
 .cid-qMY3PyYBEn {
   padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #232323;
-  background: linear-gradient(#232323, #232323);
+  padding-bottom: 75px;
+  background-color: #000000;
+  background: linear-gradient(#000000, #232323);
 }
 .cid-qMY3PyYBEn .carousel-control {
   background: #000;
 }
 .cid-qMY3PyYBEn .mbr-section-subtitle {
-  color: #767676;
+  color: #cccccc;
 }
 .cid-qMY3PyYBEn .carousel-item {
   -webkit-justify-content: center;
@@ -1582,6 +1582,9 @@ body {
   .cid-qMY3PyYBEn .carousel-inner.slides6 .cloneditem-5 {
     display: block;
   }
+}
+.cid-qMY3PyYBEn H2 {
+  color: #ffffff;
 }
 .cid-qMXMlEcBQq {
   padding-top: 90px;
