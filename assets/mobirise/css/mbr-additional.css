@@ -1382,14 +1382,14 @@ body {
 .cid-qMY3PyYBEn {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-color: #000000;
-  background: linear-gradient(#000000, #232323);
+  background-color: #232323;
+  background: linear-gradient(#232323, #000000);
 }
 .cid-qMY3PyYBEn .carousel-control {
   background: #000;
 }
 .cid-qMY3PyYBEn .mbr-section-subtitle {
-  color: #cccccc;
+  color: #ffffff;
 }
 .cid-qMY3PyYBEn .carousel-item {
   -webkit-justify-content: center;
